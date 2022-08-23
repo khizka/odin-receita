@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    text-align: center;
+  }
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 1cm;
+}
+h2 {
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 1cm;
+}
+h3 {
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 1cm;
+}
+a {
+    color: antiquewhite;
+    text-align: center;
+}
+p {
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 1cm;
+}
+li {
+    color: antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+  }
