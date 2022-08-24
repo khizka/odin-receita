@@ -1,39 +1,26 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
 body {
-    background-color: black;
+    background-color: #0a0a09;
     text-align: center;
   }
-h1 {
-    color: antiquewhite;
-    text-align: center;
-    padding-left: 1cm;
-}
-h2 {
-    color: antiquewhite;
-    text-align: center;
-    padding-left: 1cm;
-}
-h3 {
-    color: antiquewhite;
-    text-align: center;
-    padding-left: 1cm;
-}
-a {
-    color: antiquewhite;
-    text-align: center;
-}
-p {
-    color: antiquewhite;
-    text-align: center;
-    padding-left: 1cm;
+h1, h2, h3, a, p {
+    color: #faebd7;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
 }
 li {
     color: antiquewhite;
-    margin-left: auto;
+    margin-left: 33.5em;
     margin-right: auto;
-    width: 15em
+    width: fit-content;
 }
 
 img {
-    max-width: 20%;
+    max-width: 15%;
     height: auto;
   }
